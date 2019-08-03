@@ -1,0 +1,243 @@
+body {
+    max-width: 1700px;
+    min-width: 1700px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 15px;
+}
+
+#head {
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgb(243,59,124);
+    color:white;
+    font-weight: bold;
+}
+
+.background {
+    position:relative;
+    top:0;
+    left:0;
+    min-width: 100%;
+}
+
+#nav1 {
+    margin-top:10px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    display: inline;
+    font-size: 25px;
+    color: rgb(0,122,255);
+    font-weight: bold;
+}
+
+#nav2 {
+    margin-top:10px;
+    display: inline;
+    color: rgb(85,107,127);
+}
+
+#nav3 {
+    margin-top:10px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    display: inline;
+    color: rgb(0,122,255);
+}
+
+.list1 {
+    list-style: none;
+}
+
+.list2 {
+    list-style: none;
+}
+
+.list3 {
+    list-style: none;
+}
+
+.list4 {
+    list-style:none;
+}
+
+.list5 {
+    list-style: none;
+    margin-bottom: 20px;
+    width:100%;
+}
+
+.list6 {
+    list-style: none;
+    width:100%;
+}
+
+.list7 {
+    list-style: none;
+    float:right;
+    text-align: right;
+}
+
+.list8 {
+    list-style: none;
+    float:left;
+}
+
+.deals {
+    margin-top: 50px;
+}
+
+#listitem1 {
+    float: left;
+    width:33.3%;
+}
+
+#listitem2 {
+    float: left;
+    width:50%;
+}
+
+#listitem3 {
+    float:left;
+    width:20%;
+    text-align: center;
+    padding-bottom: 4px;
+    font-weight: bold;
+    color:grey;
+}
+
+#listitem4 {
+    float:left;
+    padding:15px;
+    color:grey;
+}
+
+#listitem5 {
+    text-align: center;
+    width:22%;
+    background-color:rgb(244,246,248);
+    float:left;
+    padding: 22px;
+    margin-bottom: 20px;
+}
+
+#listitem6 {
+    width:26%;
+    float:left;
+    padding:15px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    border-style: solid;
+    border-color: darkgray;
+}
+
+#listitem7 {
+    
+}
+
+.banner {
+    margin-left: 0;
+    padding-bottom: 20px;
+}
+
+main {
+    background: url('images/pcln-hp-hero-mountain-lounge.jpg') no-repeat;
+    background-size: cover;
+}
+
+#entry1 {
+    font-size: 32px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+#entry2 {
+    font-size: 24px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+}
+
+.entryBox {
+    width: 66%;
+    border-radius: 5px;
+    position: absolute;
+    top:35px;
+    left:35px;
+    background-color: white;
+    
+}
+
+.Box1 {
+    border-style:none;
+    box-shadow: 2px 2px 2px 2px #808080;
+    width: 60%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    float:left;
+    height:250px;
+}
+
+p {
+    margin:5px;
+}
+
+.Box2 {
+    border-style:none;
+    box-shadow: 2px 2px 2px 2px #808080;
+    width: 37%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 62%;
+    height:250px;
+}
+
+#input2 {
+    margin-top: 15px;
+    text-align: center;
+    width:180px;
+    font-size: 17px;
+    padding: 7px 7px 7px 7px;
+    background-color: rgb(0,122,255);
+    color:white;
+    font-weight: bold;
+    border-color: rgb(0,122,255);
+    border-radius: 5px;
+}
+
+#whereto {
+    width:90%;
+    margin-left:3%;
+    padding:20px;
+    font-size:16px;
+    margin-bottom: 14px;
+}
+
+#triplet {
+    width: 25%;
+    margin-left: 3%;
+    float: left;
+    padding:20px;
+    font-size:16px;
+    margin-bottom: 14px;
+}
+
+#triplet2 {
+    width: 25%;
+    margin-left: 3%;
+    float: left;
+    padding:20px;
+    font-size:16px;
+    margin-bottom: 14px;
+}
+
+
+
+
